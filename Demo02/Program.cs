@@ -143,7 +143,13 @@
             //Console.WriteLine(y); // 10 
             #endregion
 
+            #region String Formatting
+            //    int x = 2, y = 4;
 
+            //    string Message = string.Format("equation : x + y = {0}",x + y);
+
+            //    Message = $"Equation : x + y = {x + y}";
+            #endregion
         }
     }
 }
